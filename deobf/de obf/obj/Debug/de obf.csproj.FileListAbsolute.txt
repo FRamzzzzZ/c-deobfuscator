@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\deobf\de obf\bin\Debug\de obf.exe.config
+C:\Users\Admin\Desktop\deobf\de obf\bin\Debug\de obf.exe
+C:\Users\Admin\Desktop\deobf\de obf\bin\Debug\de obf.pdb
+C:\Users\Admin\Desktop\deobf\de obf\obj\Debug\de obf.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\deobf\de obf\obj\Debug\de obf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\deobf\de obf\obj\Debug\de obf.exe
+C:\Users\Admin\Desktop\deobf\de obf\obj\Debug\de obf.pdb
