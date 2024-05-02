@@ -10,18 +10,18 @@ C# deobfuscator written completely by chatgpt
  
 - What it can do -
 
-    DecryptStringEncryption
-    RenameIdentifiers
-    ReconstructControlFlow
-    DynamicAnalysis
-    RemoveUnusedVariables
-    RemoveUnusedMethods
-    SimplifyExpressionsAndOperations
-    InlineFunctions
-    ReplaceObfuscatedConstants
-    RemoveDebuggingCode
-    DeobfuscateNamingPatterns
-    SimplifyControlFlow
-    OptimizeLoops
-    RemoveUnusedImports
-    RestoreObfuscatedCodeStructure
+    DecryptStringEncryption,
+    RenameIdentifiers,
+    ReconstructControlFlow,
+    DynamicAnalysis,
+    RemoveUnusedVariables,
+    RemoveUnusedMethods,
+    SimplifyExpressionsAndOperations,
+    InlineFunctions,
+    ReplaceObfuscatedConstants,
+    RemoveDebuggingCode,
+    DeobfuscateNamingPatterns,
+    SimplifyControlFlow,
+    OptimizeLoops,
+    RemoveUnusedImports,
+    RestoreObfuscatedCodeStructure,
